@@ -6,7 +6,7 @@
 I'm a Passionate Full Stack Developer. Welcome to my GitHub profile!
 
 
-## 🔧 Technologies & Tools
+
 
 ## Web Development:
 -HTML
