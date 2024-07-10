@@ -15,7 +15,7 @@ I'm a Passionate Full Stack Developer. Welcome to my GitHub profile!
 
 ## Front-End project 
 - javascript 
-- bootstram
+
 - Tailwind 
 
 ## Skills
